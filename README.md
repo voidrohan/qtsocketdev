@@ -1,0 +1,2 @@
+# qtsocketdev
+QTcpSocket basics
